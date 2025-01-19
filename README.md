@@ -71,5 +71,5 @@ This project is an AI-powered SQL query generator that simplifies the process of
     ```bash
    npm install
 4. Start the development server:
-  ```bash
+    ```bash
    npm run dev
